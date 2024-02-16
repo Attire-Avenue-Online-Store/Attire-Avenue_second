@@ -1,2 +1,2 @@
 # Attire-Avenue
-A online clothing store 
+An online clothing store 
